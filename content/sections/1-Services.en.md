@@ -4,19 +4,19 @@ header: "Services"
 subheader: "Lorem ipsum dolor sit amet consectetur."
 services: [
   {
-    iconName: "ShoppingCartIcon",
-    header: "E-Commerce",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "NotesMedical",
+    header: "Qualified Review",
+    content: "Have your mole personally reviewed by our qualified doctor and skin specialist."
   },
   {
-    iconName: "LaptopIcon",
-    header: "Responsive Design",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "FastForward",
+    header: "Fast Response",
+    content: "Clients receive their report within 12 hours on average."
   },
   {
-    iconName: "LockIcon",
-    header: "Web Security",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    iconName: "DollarSign",
+    header: "Save Money",
+    content: "At $40 per report, you will not find a cheaper service online."
   }
 ]
 ---

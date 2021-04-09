@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "Insta Mole",
   keywords: [
     "gatsby",
     "gatsbyjs",
@@ -11,7 +11,7 @@ module.exports = {
     "startbootstrap-agency",
   ],
   description: "gatsby version of startbootstrap-agency with i18n support.",
-  author: "thundermiracle",
+  author: "edmundweir",
   trackingId: "UA-119418003-5",
   defaultLang: "en",
   langTextMap: {

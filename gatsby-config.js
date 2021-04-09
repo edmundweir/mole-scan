@@ -92,4 +92,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: "/mole-scan",
 };
